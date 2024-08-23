@@ -55,29 +55,23 @@ Detailed graphs:
 
 F1-Confidence Curve:
 
-<img src="https://raw.githubusercontent.com/itakurah/SittingPostureDetection/main/data/images/F1_curve.png" width=50% height=50%>
+<img src = "https://github.com/user-attachments/assets/955f3b41-c49a-463a-a6d9-88ee1e547851" width=50% height=50%>
 
 Precision-Confidence Curve:
 
-<img src="https://raw.githubusercontent.com/itakurah/SittingPostureDetection/main/data/images/P_curve.png" width=50% height=50%>
+<img src = "https://github.com/user-attachments/assets/e2049240-c4b1-4c0a-900e-b636b88f4699" width=50% height=50%>
 
 Recall-Confidence Curve:
 
-<img src="https://raw.githubusercontent.com/itakurah/SittingPostureDetection/main/data/images/R_curve.png" width=50% height=50%>
+<img src = "https://github.com/user-attachments/assets/d7e53659-8321-411e-9de3-cb246fe91666" width=50% height=50%>
 
 Precision-Recall Curve:
 
-<img src="https://raw.githubusercontent.com/itakurah/SittingPostureDetection/main/data/images/PR_curve.png" width=50% height=50%>
+<img src = "https://github.com/user-attachments/assets/b5ed840e-eb63-4036-8f6f-f9c3aeb900ad" width=50% height=50%>
 
 Confusion Matrix:
 
-<img src="https://raw.githubusercontent.com/itakurah/SittingPostureDetection/main/data/images/confusion_matrix.png" width=50% height=50%>
-
-# About
-
-This project was developed by [Niklas Hoefflin](https://github.com/itakurah), [Tim Spulak](https://github.com/T-Lak),
-Pascal Gerber & Jan Bösch and supervised by [André Jeworutzki](https://github.com/AndreJeworutzki)
-and Jan Schwarzer as part of the [Train Like A Machine](https://csti.haw-hamburg.de/project/TLAM/) module.
+<img src = "https://github.com/user-attachments/assets/a970f4ef-3b0f-42cf-a19d-4e6589d771e9" width=50% height=50%>
 
 # Sources
 
