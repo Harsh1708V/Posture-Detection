@@ -55,22 +55,23 @@ Detailed graphs:
 
 F1-Confidence Curve:
 
-
+![F1_curve](https://github.com/user-attachments/assets/955f3b41-c49a-463a-a6d9-88ee1e547851)
 
 Precision-Confidence Curve:
 
+![P_curve](https://github.com/user-attachments/assets/e2049240-c4b1-4c0a-900e-b636b88f4699)
 
 Recall-Confidence Curve:
 
-
+![R_curve](https://github.com/user-attachments/assets/d7e53659-8321-411e-9de3-cb246fe91666)
 
 Precision-Recall Curve:
 
-
+![PR_curve](https://github.com/user-attachments/assets/b5ed840e-eb63-4036-8f6f-f9c3aeb900ad)
 
 Confusion Matrix:
 
-
+![confusion_matrix](https://github.com/user-attachments/assets/a970f4ef-3b0f-42cf-a19d-4e6589d771e9)
 
 # Sources
 
