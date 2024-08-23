@@ -55,29 +55,22 @@ Detailed graphs:
 
 F1-Confidence Curve:
 
-<img src="https://raw.githubusercontent.com/itakurah/SittingPostureDetection/main/data/images/F1_curve.png" width=50% height=50%>
+
 
 Precision-Confidence Curve:
 
-<img src="https://raw.githubusercontent.com/itakurah/SittingPostureDetection/main/data/images/P_curve.png" width=50% height=50%>
 
 Recall-Confidence Curve:
 
-<img src="https://raw.githubusercontent.com/itakurah/SittingPostureDetection/main/data/images/R_curve.png" width=50% height=50%>
+
 
 Precision-Recall Curve:
 
-<img src="https://raw.githubusercontent.com/itakurah/SittingPostureDetection/main/data/images/PR_curve.png" width=50% height=50%>
+
 
 Confusion Matrix:
 
-<img src="https://raw.githubusercontent.com/itakurah/SittingPostureDetection/main/data/images/confusion_matrix.png" width=50% height=50%>
 
-# About
-
-This project was developed by [Niklas Hoefflin](https://github.com/itakurah), [Tim Spulak](https://github.com/T-Lak),
-Pascal Gerber & Jan Bösch and supervised by [André Jeworutzki](https://github.com/AndreJeworutzki)
-and Jan Schwarzer as part of the [Train Like A Machine](https://csti.haw-hamburg.de/project/TLAM/) module.
 
 # Sources
 
