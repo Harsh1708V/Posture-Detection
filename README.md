@@ -55,7 +55,7 @@ Detailed graphs:
 
 F1-Confidence Curve:
 
-![F1_curve](https://github.com/user-attachments/assets/955f3b41-c49a-463a-a6d9-88ee1e547851)
+<img src = "https://github.com/user-attachments/assets/955f3b41-c49a-463a-a6d9-88ee1e547851" width=50% height=50%>
 
 Precision-Confidence Curve:
 
