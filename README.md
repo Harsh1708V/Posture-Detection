@@ -59,19 +59,19 @@ F1-Confidence Curve:
 
 Precision-Confidence Curve:
 
-![P_curve](https://github.com/user-attachments/assets/e2049240-c4b1-4c0a-900e-b636b88f4699)
+<img src = "https://github.com/user-attachments/assets/e2049240-c4b1-4c0a-900e-b636b88f4699" width=50% height=50%>
 
 Recall-Confidence Curve:
 
-![R_curve](https://github.com/user-attachments/assets/d7e53659-8321-411e-9de3-cb246fe91666)
+<img src = "https://github.com/user-attachments/assets/d7e53659-8321-411e-9de3-cb246fe91666" width=50% height=50%>
 
 Precision-Recall Curve:
 
-![PR_curve](https://github.com/user-attachments/assets/b5ed840e-eb63-4036-8f6f-f9c3aeb900ad)
+<img src = "https://github.com/user-attachments/assets/b5ed840e-eb63-4036-8f6f-f9c3aeb900ad" width=50% height=50%>
 
 Confusion Matrix:
 
-![confusion_matrix](https://github.com/user-attachments/assets/a970f4ef-3b0f-42cf-a19d-4e6589d771e9)
+<img src = "https://github.com/user-attachments/assets/a970f4ef-3b0f-42cf-a19d-4e6589d771e9" width=50% height=50%>
 
 # Sources
 
